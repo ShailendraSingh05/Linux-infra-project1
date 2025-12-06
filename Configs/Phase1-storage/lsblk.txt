@@ -1,0 +1,31 @@
+NAME                        SIZE FSTYPE            TYPE   MOUNTPOINT
+loop0                         4K squashfs          loop   /snap/bare/5
+loop1                      73.9M squashfs          loop   /snap/core22/1748
+loop2                        74M squashfs          loop   /snap/core22/2163
+loop3                       258M squashfs          loop   /snap/firefox/5751
+loop4                      18.5M squashfs          loop   /snap/firmware-updater/210
+loop5                       568K squashfs          loop   /snap/snapd-desktop-integration/253
+loop6                      10.8M squashfs          loop   /snap/snap-store/1248
+loop7                      11.1M squashfs          loop   /snap/firmware-updater/167
+loop8                       516M squashfs          loop   /snap/gnome-42-2204/202
+loop9                      44.4M squashfs          loop   /snap/snapd/23545
+loop10                     91.7M squashfs          loop   /snap/gtk-common-themes/1535
+loop11                    250.6M squashfs          loop   /snap/firefox/7423
+loop12                      576K squashfs          loop   /snap/snapd-desktop-integration/315
+loop13                     50.9M squashfs          loop   /snap/snapd/25577
+sda                          25G                   disk   
+├─sda1                        1M                   part   
+└─sda2                       25G ext4              part   /
+sdb                           5G linux_raid_member disk   
+└─md0                        10G LVM2_member       raid10 
+  └─vg--data-lv--projects     5G ext4              lvm    /srv/projects
+sdc                           5G linux_raid_member disk   
+└─md0                        10G LVM2_member       raid10 
+  └─vg--data-lv--projects     5G ext4              lvm    /srv/projects
+sdd                           5G linux_raid_member disk   
+└─md0                        10G LVM2_member       raid10 
+  └─vg--data-lv--projects     5G ext4              lvm    /srv/projects
+sde                           5G linux_raid_member disk   
+└─md0                        10G LVM2_member       raid10 
+  └─vg--data-lv--projects     5G ext4              lvm    /srv/projects
+sr0                        1024M                   rom    

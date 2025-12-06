@@ -1,0 +1,61 @@
+2025-11-27T16:29:25.645403+00:00 HQ-SRV1 systemd[1]: Started anacron.timer - Trigger anacron every hour.
+2025-11-27T16:29:25.645470+00:00 HQ-SRV1 systemd[1]: Started anacron.service - Run anacron jobs.
+2025-11-27T16:29:25.645490+00:00 HQ-SRV1 anacron[1029]: Anacron 2.3 started on 2025-11-27
+2025-11-27T16:29:25.645492+00:00 HQ-SRV1 anacron[1029]: Will run job `cron.daily' in 5 min.
+2025-11-27T16:29:25.645494+00:00 HQ-SRV1 anacron[1029]: Will run job `cron.weekly' in 10 min.
+2025-11-27T16:29:25.645509+00:00 HQ-SRV1 anacron[1029]: Will run job `cron.monthly' in 15 min.
+2025-11-27T16:29:25.645512+00:00 HQ-SRV1 anacron[1029]: Jobs will be executed sequentially
+2025-11-27T16:29:25.645634+00:00 HQ-SRV1 systemd[1]: Started cron.service - Regular background program processing daemon.
+2025-11-27T16:29:25.645653+00:00 HQ-SRV1 (cron)[1058]: cron.service: Referenced but unset environment variable evaluates to an empty string: EXTRA_OPTS
+2025-11-27T16:29:25.645665+00:00 HQ-SRV1 cron[1058]: (CRON) INFO (pidfile fd = 3)
+2025-11-27T16:29:25.645670+00:00 HQ-SRV1 cron[1058]: (CRON) INFO (Running @reboot jobs)
+2025-11-27T16:30:01.450916+00:00 HQ-SRV1 CRON[2271]: (root) CMD ([ -x /etc/init.d/anacron ] && if [ ! -d /run/systemd/system ]; then /usr/sbin/invoke-rc.d anacron start >/dev/null; fi)
+2025-11-27T16:34:24.845733+00:00 HQ-SRV1 anacron[1029]: Job `cron.daily' started
+2025-11-27T16:34:24.883334+00:00 HQ-SRV1 anacron[2298]: Updated timestamp for job `cron.daily' to 2025-11-27
+2025-11-27T16:34:24.910008+00:00 HQ-SRV1 anacron[1029]: Job `cron.daily' terminated
+2025-11-27T16:35:01.385527+00:00 HQ-SRV1 CRON[2312]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+2025-11-27T16:39:24.848623+00:00 HQ-SRV1 anacron[1029]: Job `cron.weekly' started
+2025-11-27T16:39:24.872473+00:00 HQ-SRV1 anacron[3619]: Updated timestamp for job `cron.weekly' to 2025-11-27
+2025-11-27T16:39:24.876417+00:00 HQ-SRV1 anacron[1029]: Job `cron.weekly' terminated
+2025-11-27T16:44:24.865856+00:00 HQ-SRV1 anacron[1029]: Job `cron.monthly' started
+2025-11-27T16:44:24.890759+00:00 HQ-SRV1 anacron[1029]: Job `cron.monthly' terminated
+2025-11-27T16:44:24.890996+00:00 HQ-SRV1 systemd[1]: anacron.service: Deactivated successfully.
+2025-11-27T16:44:24.891104+00:00 HQ-SRV1 anacron[1029]: Normal exit (3 jobs run)
+2025-11-27T16:44:24.891296+00:00 HQ-SRV1 anacron[3842]: Updated timestamp for job `cron.monthly' to 2025-11-27
+2025-11-27T16:45:01.351984+00:00 HQ-SRV1 CRON[3854]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+2025-11-27T16:55:01.083655+00:00 HQ-SRV1 CRON[3868]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+2025-11-27T17:33:24.550257+00:00 HQ-SRV1 systemd[1]: Started anacron.timer - Trigger anacron every hour.
+2025-11-27T17:33:24.550796+00:00 HQ-SRV1 systemd[1]: Started anacron.service - Run anacron jobs.
+2025-11-27T17:33:24.550830+00:00 HQ-SRV1 anacron[810]: Anacron 2.3 started on 2025-11-27
+2025-11-27T17:33:24.550832+00:00 HQ-SRV1 anacron[810]: Normal exit (0 jobs run)
+2025-11-27T17:33:24.560867+00:00 HQ-SRV1 systemd[1]: Started cron.service - Regular background program processing daemon.
+2025-11-27T17:33:24.560871+00:00 HQ-SRV1 (cron)[844]: cron.service: Referenced but unset environment variable evaluates to an empty string: EXTRA_OPTS
+2025-11-27T17:33:24.560875+00:00 HQ-SRV1 cron[844]: (CRON) INFO (pidfile fd = 3)
+2025-11-27T17:33:24.560880+00:00 HQ-SRV1 cron[844]: (CRON) INFO (Running @reboot jobs)
+2025-11-27T17:33:24.560892+00:00 HQ-SRV1 systemd[1]: anacron.service: Deactivated successfully.
+2025-11-27T17:35:01.408774+00:00 HQ-SRV1 CRON[1772]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+2025-11-27T17:36:19.737819+00:00 HQ-SRV1 systemd[1]: Started anacron.service - Run anacron jobs.
+2025-11-27T17:36:19.740726+00:00 HQ-SRV1 anacron[2842]: Anacron 2.3 started on 2025-11-27
+2025-11-27T17:36:19.741049+00:00 HQ-SRV1 anacron[2842]: Normal exit (0 jobs run)
+2025-11-27T17:36:19.741431+00:00 HQ-SRV1 systemd[1]: anacron.service: Deactivated successfully.
+2025-11-27T17:45:01.725540+00:00 HQ-SRV1 CRON[2933]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+2025-11-27T17:55:01.762075+00:00 HQ-SRV1 CRON[2968]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+2025-11-27T18:05:01.666690+00:00 HQ-SRV1 CRON[3140]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+2025-11-27T18:30:01.717391+00:00 HQ-SRV1 CRON[8486]: (root) CMD ([ -x /etc/init.d/anacron ] && if [ ! -d /run/systemd/system ]; then /usr/sbin/invoke-rc.d anacron start >/dev/null; fi)
+2025-11-27T18:31:50.666869+00:00 HQ-SRV1 systemd[1]: Started anacron.service - Run anacron jobs.
+2025-11-27T18:31:50.669614+00:00 HQ-SRV1 anacron[9306]: Anacron 2.3 started on 2025-11-27
+2025-11-27T18:31:50.669959+00:00 HQ-SRV1 anacron[9306]: Normal exit (0 jobs run)
+2025-11-27T18:31:50.971587+00:00 HQ-SRV1 systemd[1]: anacron.service: Deactivated successfully.
+2025-11-27T18:35:01.803120+00:00 HQ-SRV1 CRON[14377]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+2025-11-27T18:40:22.031844+00:00 HQ-SRV1 systemd[1]: anacron.timer: Deactivated successfully.
+2025-11-27T18:40:22.039617+00:00 HQ-SRV1 systemd[1]: Stopped anacron.timer - Trigger anacron every hour.
+2025-11-27T18:40:22.048402+00:00 HQ-SRV1 systemd[1]: Stopping cron.service - Regular background program processing daemon...
+2025-11-27T18:40:26.374042+00:00 HQ-SRV1 systemd[1]: Started anacron.timer - Trigger anacron every hour.
+2025-11-27T18:40:26.374615+00:00 HQ-SRV1 systemd[1]: Started anacron.service - Run anacron jobs.
+2025-11-27T18:40:26.392238+00:00 HQ-SRV1 anacron[995]: Anacron 2.3 started on 2025-11-27
+2025-11-27T18:40:26.392247+00:00 HQ-SRV1 anacron[995]: Normal exit (0 jobs run)
+2025-11-27T18:40:26.407478+00:00 HQ-SRV1 systemd[1]: Started cron.service - Regular background program processing daemon.
+2025-11-27T18:40:26.407480+00:00 HQ-SRV1 (cron)[1034]: cron.service: Referenced but unset environment variable evaluates to an empty string: EXTRA_OPTS
+2025-11-27T18:40:26.407482+00:00 HQ-SRV1 cron[1034]: (CRON) INFO (pidfile fd = 3)
+2025-11-27T18:40:26.407485+00:00 HQ-SRV1 cron[1034]: (CRON) INFO (Running @reboot jobs)
+2025-11-27T18:40:26.407499+00:00 HQ-SRV1 systemd[1]: anacron.service: Deactivated successfully.

@@ -1,0 +1,9 @@
+○ hello.service - Simple Hello Service
+     Loaded: loaded (/etc/systemd/system/hello.service; enabled; preset: enabled)
+     Active: inactive (dead) since Thu 2025-12-04 23:06:03 UTC; 1h 1min ago
+   Duration: 232ms
+   Main PID: 1104 (code=exited, status=0/SUCCESS)
+        CPU: 28ms
+
+Dec 04 23:06:03 hq-srv1.corp.local systemd[1]: Started hello.service - Simple Hello Service.
+Dec 04 23:06:03 hq-srv1.corp.local systemd[1]: hello.service: Deactivated successfully.

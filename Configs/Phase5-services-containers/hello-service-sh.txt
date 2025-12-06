@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "$(date) - Hello from custom service! " >> /var/log/hello_service.log

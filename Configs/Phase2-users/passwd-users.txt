@@ -1,0 +1,5 @@
+vboxuser:x:1000:1000:vboxuser:/home/vboxuser:/bin/bash
+alice:x:1001:1004::/home/alice:/bin/bash
+bob:x:1002:1005::/home/bob:/bin/bash
+charlie:x:1003:1006::/home/charlie:/bin/bash
+dave:x:1004:1007::/home/dave:/bin/bash

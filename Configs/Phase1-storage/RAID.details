@@ -1,0 +1,31 @@
+/dev/md0:
+           Version : 1.2
+     Creation Time : Thu Nov 27 18:28:08 2025
+        Raid Level : raid10
+        Array Size : 10475520 (9.99 GiB 10.73 GB)
+     Used Dev Size : 5237760 (5.00 GiB 5.36 GB)
+      Raid Devices : 4
+     Total Devices : 4
+       Persistence : Superblock is persistent
+
+       Update Time : Thu Dec  4 00:01:21 2025
+             State : clean 
+    Active Devices : 4
+   Working Devices : 4
+    Failed Devices : 0
+     Spare Devices : 0
+
+            Layout : near=2
+        Chunk Size : 512K
+
+Consistency Policy : resync
+
+              Name : HQ-SRV1:0
+              UUID : 34a729c6:983c60d3:cbfb6782:854429ea
+            Events : 17
+
+    Number   Major   Minor   RaidDevice State
+       0       8       16        0      active sync set-A   /dev/sdb
+       1       8       32        1      active sync set-B   /dev/sdc
+       2       8       48        2      active sync set-A   /dev/sdd
+       3       8       64        3      active sync set-B   /dev/sde

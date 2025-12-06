@@ -1,0 +1,5 @@
+total 28
+drwxrws--- 2 root devteam   4096 Nov 28 20:52 dev
+drwx------ 2 root root     16384 Nov 27 18:36 lost+found
+drwxrws--- 2 root ops       4096 Nov 28 20:52 ops
+drwxrwxr-x 2 root managers  4096 Nov 28 20:52 shared

@@ -1,0 +1,4 @@
+whoopsie:x:109:
+devteam:x:1001:alice,bob
+ops:x:1002:charlie
+managers:x:1003:dave

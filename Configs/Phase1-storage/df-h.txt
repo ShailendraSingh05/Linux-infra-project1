@@ -1,0 +1,7 @@
+Filesystem                         Size  Used Avail Use% Mounted on
+tmpfs                              491M  1.6M  490M   1% /run
+/dev/sda2                           25G  8.8G   15G  38% /
+tmpfs                              2.4G     0  2.4G   0% /dev/shm
+tmpfs                              5.0M  8.0K  5.0M   1% /run/lock
+/dev/mapper/vg--data-lv--projects  4.9G   36K  4.6G   1% /srv/projects
+tmpfs                              491M  112K  491M   1% /run/user/1000

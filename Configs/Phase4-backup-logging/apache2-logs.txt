@@ -1,0 +1,11 @@
+total 28
+-rw-r----- 1 root adm     0 Dec  3 00:25 access.log
+-rw-r----- 1 root adm    81 Dec  1 23:53 access.log.1
+-rw-r----- 1 root adm   723 Dec  4 23:06 error.log
+-rw-r----- 1 root adm  1324 Dec  4 00:00 error.log.1
+-rw-r----- 1 root adm   525 Dec  3 00:25 error.log.2.gz
+-rw-r----- 1 root adm   247 Dec  4 23:33 intranet-access.log
+-rw-r--r-- 1 root root 2405 Dec  2 01:50 intranet-access.log.1
+-rw-r----- 1 root adm     0 Dec  4 00:00 intranet-error.log
+-rw-r--r-- 1 root root 3517 Dec  2 01:50 intranet-error.log.1
+-rw-r----- 1 root adm     0 Dec  1 23:51 other_vhosts_access.log

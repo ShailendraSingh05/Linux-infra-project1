@@ -1,0 +1,2 @@
+  PV         VG      Fmt  Attr PSize  PFree 
+  /dev/md0   vg-data lvm2 a--  <9.99g <4.99g

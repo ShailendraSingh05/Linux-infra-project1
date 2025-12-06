@@ -1,0 +1,1 @@
+%devteam ALL=NOPASSWD: /usr/bin/atp update , /usr/bin/apt install

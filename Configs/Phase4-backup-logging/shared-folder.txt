@@ -1,0 +1,1 @@
+drwxrwxrwx 2 nobody nogroup 4096 Dec  2 02:14 /srv/shared/
